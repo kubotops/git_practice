@@ -2,7 +2,7 @@ import SwiftUI
 import Charts
 
 @main
-struct HabitShieldApp: App {
+struct WavesApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
